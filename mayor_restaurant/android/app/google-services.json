@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421020748262",
+    "firebase_url": "https://mayor-restaurant-firebase.firebaseio.com",
+    "project_id": "mayor-restaurant-firebase",
+    "storage_bucket": "mayor-restaurant-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421020748262:android:97c5025cad139e64e3ae27",
+        "android_client_info": {
+          "package_name": "seba.mayor_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421020748262-49rdah1hb2iamqcr67ttg43f7jprclqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdvVbyWnLDZZN-riqAdrKeQwmioAAPVf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421020748262-49rdah1hb2iamqcr67ttg43f7jprclqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
